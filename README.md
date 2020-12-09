@@ -1,1 +1,0 @@
-# PuTTy-og-Seriell-Kommunikasjon
